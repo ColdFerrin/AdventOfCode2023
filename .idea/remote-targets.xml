@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="fkatz@192.168.1.141:22" type="ssh/sftp" uuid="1f0e75e4-c9b2-467b-9360-ab8dc341e50d">
+        <config>
+          <option name="projectRootOnTarget" value="/home/fkatz/AdventOfCode2023" />
+          <option name="serverName" value="fkatz@192.168.1.141:22 key" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="21.0.1" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
